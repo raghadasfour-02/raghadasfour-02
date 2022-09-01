@@ -9,4 +9,4 @@ I have read Agile Software development by Robert C.Martin, Clean Code by Robert 
 
 Bonus: I like cats, I read philosophy books, and I find the universe pretty darn cool.
 
-Let's chat. raghadasfour.74@gmail.com
+Connect with me. https://www.linkedin.com/in/raghadasfour/

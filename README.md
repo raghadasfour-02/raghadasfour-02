@@ -1,6 +1,6 @@
 ### Hello 👋 I’m Raghad.
 
-Systems Design Engineering student. Programming enthusiast
+Systems Design Engineering student. Programming enthusiast.
 #### I like to code.
 I like to build applications using different languages. I’m fluent in Python, C++, Javascript, React, and recently started to learn Go.
 

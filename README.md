@@ -1,6 +1,6 @@
 ### Hello 👋 I’m Raghad.
 
-Engineering student. Programming and design enthusiast.
+Engineering student. Programming & design enthusiast.
 #### I like to code.
 I like to build applications using different languages. I’m fluent in Python, C++, Javascript, React, and recently started to learn Go.
 

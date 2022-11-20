@@ -1,4 +1,4 @@
-### Hello 👋 I’m Raghad.
+### Hello! I’m Raghad.
 
 Engineering student. Programming & design enthusiast.
 #### I like to code.
